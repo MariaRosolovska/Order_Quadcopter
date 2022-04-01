@@ -43,6 +43,7 @@ body{
 }
 .menu__list {
     display: flex;
+    background-color: #332208;
 }
 .menu__item {
     margin: 0 15px;
